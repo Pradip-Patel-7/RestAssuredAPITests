@@ -1,0 +1,4 @@
+APITests\PostRequestTests.class
+APITests\PutRequestTests.class
+baseClass\BaseTest.class
+APITests\GetRequestTests.class
