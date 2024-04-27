@@ -14,7 +14,7 @@
   
 ## How to execute tests?
 - Clone the repository to your local machine
-- Double click on Run.bat file to run (Internally it would run mvn test using maven surefire plugin
+- Double click on Run.bat file available under root directory of the project to run (Internally it would run mvn test using maven surefire plugin)
 
 ## Test Reports
 - Once execution gets completed test report can be found under "test-output" folder as index.html file
